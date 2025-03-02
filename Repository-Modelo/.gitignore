@@ -1,0 +1,25 @@
+# Carpetas de compilación
+bin/
+obj/
+wwwroot/
+
+# Dependencias de NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# Configuración del usuario y Visual Studio
+*.user
+*.suo
+*.vs/
+.vscode/
+*.csproj.user
+
+# Archivos generados
+*.dll
+*.exe
+*.log
+*.pdb
+
+# Configuraciones sensibles
+appsettings.Development.json
